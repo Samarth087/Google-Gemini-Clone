@@ -27,7 +27,7 @@ function Main() {
             {!showResult 
             ?<>
                 <div className="greet my-12 text-[56px] text-slate-600 p-[20px] text font-semibold max-sm:text-[26px] max-sm:my-2 ">
-                <p><span>Hello, Samarth.</span></p>
+                <p><span>Hello, Users.</span></p>
                 <p>How can I help you today?</p>
             </div>
             <div className="cards  ">
